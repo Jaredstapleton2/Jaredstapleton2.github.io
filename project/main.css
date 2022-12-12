@@ -1,6 +1,6 @@
 body {
        background-color: #d40707;
-       background-image: url(images/allen.jpeg);
+       background-image: url(images/stadium.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -16,13 +16,13 @@ body {
 }
 
 header {
-       background-color: #4124d0;
-       background-image: url(images/stadium.jpeg);
+       background-color: #d40707;
+       background-image: url(images/josh.jpeg);
 	background-repeat: no-repeat;
+       background-size: cover;
+	background-attachment: fixed;
 	color: #fef8f6;
-	padding-left: 240px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	
 }
 
 h1 {
@@ -39,8 +39,12 @@ nav {
 }
 
 footer {
-       background-color: #4124d0;
-       color: #fbfbfb;
+       background-color: #d40707;
+       background-image: url(images/josh.jpeg);
+	background-repeat: no-repeat;
+       background-size: cover;
+	background-attachment: fixed;
+	color: #053afb;
        font-size: .60em;
 	font-style: italic;
 	text-align: center;
