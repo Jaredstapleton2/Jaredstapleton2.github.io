@@ -1,5 +1,9 @@
 body {
        background-color: #d40707;
+       background-image: url(images/stadium.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
        color: #221811;
        font-family: 'Cinzel', serif;
 }
@@ -13,8 +17,12 @@ body {
 
 header {
        background-color: #4124d0;
-       color: #fbfbfb;
-       text-align: center;
+       background-image: url(images/joshallen.jpg);
+	background-repeat: no-repeat;
+	color: #fef8f6;
+	padding-left: 240px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 h1 {
@@ -34,6 +42,7 @@ footer {
        background-color: #4124d0;
        color: #fbfbfb;
        font-size: .60em;
-       font-style: italic;
-       text-align: center;
+	font-style: italic;
+	text-align: center;
+	padding-bottom: 1em;
 }
