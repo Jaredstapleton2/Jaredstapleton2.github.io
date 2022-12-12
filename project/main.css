@@ -1,6 +1,6 @@
 body {
        background-color: #d40707;
-       background-image: url(images/stadium.jpeg);
+       background-image: url(images/allen.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -17,7 +17,7 @@ body {
 
 header {
        background-color: #4124d0;
-       background-image: url(images/joshallen.jpg);
+       background-image: url(images/stadium.jpeg);
 	background-repeat: no-repeat;
 	color: #fef8f6;
 	padding-left: 240px;
